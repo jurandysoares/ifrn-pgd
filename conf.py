@@ -16,6 +16,7 @@ release = '2023.1'
 
 extensions = [
     'myst_parser',
+    'sphinx_comments',
 ]
 
 templates_path = ['_templates']
@@ -29,3 +30,7 @@ language = 'pt_BR'
 html_theme = 'furo'
 html_static_path = ['_static']
 html_title = ''
+
+comments_config = {
+   "hypothesis": True
+}

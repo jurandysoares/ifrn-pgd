@@ -1,2 +1,4 @@
-sphinx
 furo
+myst-parser
+sphinx
+sphinx-comments
