@@ -7,4 +7,4 @@ Seguem as datas limite para emitir os documentos do {term}`PGD`:
 - Até o dia 5 após o mês de execução, o servidor deve encaminhar o {term}`RIT` para aprovação da chefia;
 - Até o dia 15 de cada mês a chefia deve avaliar e homologar os RITs submetidos.
 
-Veja os vídeos tutorais de cada fase no sistema para ajudá-los nessa etapa.
+Veja os {ref}`video-tutoriais` de cada fase no sistema para ajudá-los nessa etapa.
